@@ -1,0 +1,17 @@
+Final output after assigning priorities
+
+
+Test case 2 of class 1
+Test case 1 of class 1
+Test case 3 of class 1
+Test case 1 of class 2
+Test case 3 of class 2
+Test case 2 of class 2
+
+===============================================
+Suite
+Total tests run: 6, Passes: 6, Failures: 0, Skips: 0
+===============================================
+
+
+Process finished with exit code 0
